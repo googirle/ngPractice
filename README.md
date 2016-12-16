@@ -1,0 +1,2 @@
+# ngPractice
+For angularJs practice
